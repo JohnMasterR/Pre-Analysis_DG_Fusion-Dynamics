@@ -1,0 +1,14 @@
+{
+    "N": 100,
+    "Nf": 0,
+    "Niter": 100000000,
+    "Nsim": 10,
+    "Nsimst": 9,
+    "beta": 0.5,
+    "dt": 1e-06,
+    "freediffusion": false,
+    "lf": 1.0,
+    "log": "INFO",
+    "silent": false,
+    "stf": 0
+}
