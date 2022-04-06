@@ -1,0 +1,39 @@
+2022-04-03 20:39:14,187 : Starting 10 simulations with parameters:
+ {
+    "N": 100,
+    "Nf": 0,
+    "Niter": 100000000,
+    "Nsim": 10,
+    "Nsimst": 35,
+    "beta": 0.5,
+    "dt": 1e-06,
+    "freediffusion": false,
+    "lf": 1.0,
+    "log": "INFO",
+    "silent": false,
+    "stf": 0
+}
+2022-04-03 20:39:14,216 : Running simulation # 1
+2022-04-03 23:57:15,612 : Simulation # 1 completed
+2022-04-03 23:57:15,614 : Running simulation # 2
+2022-04-04 03:28:55,698 : Simulation # 2 completed
+2022-04-04 03:28:55,702 : Running simulation # 3
+2022-04-04 06:26:16,273 : Simulation # 3 completed
+2022-04-04 06:26:16,276 : Running simulation # 4
+2022-04-04 09:50:18,983 : Simulation # 4 completed
+2022-04-04 09:50:18,986 : Running simulation # 5
+2022-04-04 12:58:42,616 : Simulation # 5 completed
+2022-04-04 12:58:42,619 : Running simulation # 6
+2022-04-04 16:01:55,394 : Simulation # 6 completed
+2022-04-04 16:01:55,396 : Running simulation # 7
+2022-04-04 19:03:14,002 : Simulation # 7 completed
+2022-04-04 19:03:14,005 : Running simulation # 8
+2022-04-04 22:34:28,898 : Simulation # 8 completed
+2022-04-04 22:34:28,902 : Running simulation # 9
+2022-04-05 01:55:26,890 : Simulation # 9 completed
+2022-04-05 01:55:26,904 : Running simulation # 10
+2022-04-05 04:51:17,691 : Simulation # 10 completed
+2022-04-05 04:51:17,723 : Wrote particle number results to ./N100_Niter100000000_Nsim10_beta0.5_dt1e-06_lf1.0/Nsimst_35/N_t.csv
+2022-04-05 04:51:17,724 : Wrote charges histogram results to ./N100_Niter100000000_Nsim10_beta0.5_dt1e-06_lf1.0/Nsimst_35/Q_t.pickle
+2022-04-05 04:51:17,724 : Finished 10 simulations
+Total time for make all simulations 115923.55059027672
